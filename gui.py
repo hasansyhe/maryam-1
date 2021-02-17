@@ -4,6 +4,12 @@ import os
 from services import images
 from ttkthemes import ThemedTk
 from tkinter import messagebox
+# please install ttkthemes library and tkinter , befor run this code
+
+# Author : Hasan Mohammed AL-Shikh
+# GUI : select device model and android version {interface}
+# yout can share this code with ur friends
+# thanks for MARYAM and AMAL and SHAHD .....!
 
 class splash():
     def __init__():
